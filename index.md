@@ -1,15 +1,17 @@
 # Mission
 
-Infinite Technology ∞ is a non-profit based, non-commercial open-source software foundation established in 2018.
+RTK.ae ⌘ is an RTK Drone Environment Surveying organization operating in UAE, established in 2019.
 
-Our mission is to streamline Web and Mobile app development by standardizing and systemizing the primary infrastructure 
-components:
+[RTK](https://en.wikipedia.org/wiki/Real-time_kinematic) is a navigation technique allowing to achieve centimeter 
+precision of an object or landscape on a map. 
 
-* Logging
-* Code automation and transformation
-* Messaging
-* User login & API Security
-* HATEOAS (HAL) Frontend SDK
+Our mission is to provide services, using RTK drones and Artificial Intelligence for collecting and analyzing data:
+
+* Environmental and ecological monitoring, mapping and timelapse:
+  * Sand dune migration
+  * Desert temperature
+  * Gulf air temperature
+  * Gulf wind map
 
 # Projects
 
