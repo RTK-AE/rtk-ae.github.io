@@ -12,6 +12,7 @@ Our mission is to provide services, using RTK drones and Artificial Intelligence
   * Desert temperature
   * Gulf air temperature
   * Gulf wind map
+  * Oil ecological monitoring
 
 ![AW19 Mk2](https://avatars1.githubusercontent.com/u/51878591?s=200&v=4)
 
