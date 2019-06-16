@@ -1,6 +1,6 @@
 # Mission
 
-RTK.ae ⌘ is an RTK Drone Environment Surveying organization operating in UAE, established in 2019.
+RTK ⌘ UAE is an RTK Drone Environment Surveying organization operating in UAE, established in 2019.
 
 [RTK](https://en.wikipedia.org/wiki/Real-time_kinematic) is a navigation technique allowing to achieve centimeter 
 precision of an object or landscape on a map. 
@@ -12,6 +12,8 @@ Our mission is to provide services, using RTK drones and Artificial Intelligence
   * Desert temperature
   * Gulf air temperature
   * Gulf wind map
+
+![AW19 Mk2](https://avatars1.githubusercontent.com/u/51878591?s=200&v=4)
 
 # Projects
 
