@@ -16,7 +16,7 @@ Our mission is to provide services, using RTK drones and Artificial Intelligence
 
 ![AW19 Mk2](https://avatars1.githubusercontent.com/u/51878591?s=200&v=4)
 
-# Projects
+# Products
 
 Our projects are hosted in [Bintray Maven Repository](https://bintray.com/infinite-technology/m2) 
 and are publicly available via [Bintray JCenter](https://bintray.com/bintray/jcenter).
