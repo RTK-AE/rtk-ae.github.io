@@ -17,7 +17,7 @@ Our mission is to provide the following products and services:
   * Modular design with peripheral components highly available in UAE market
   * Scalable & upgradable design
   * Simple maintenance & repairs
-  * Newest safer power systems 
+  * Newest & safest power systems 
   * [See more](/products)
 
 ## Environmental and ecological monitoring
