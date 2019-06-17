@@ -24,4 +24,5 @@ Our mission is to provide the following products and services:
   * Gulf air temperature
   * Gulf wind map
   * Oil&gas industry ecological monitoring - complete lifecycle
+  * Construction sites progress maps
   * [See more](/services)
