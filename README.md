@@ -17,13 +17,15 @@ Our mission is to provide the following products and services:
   * Modular design with peripheral components highly available in UAE market
   * Scalable & upgradable design
   * Simple maintenance & repairs
+  * Newest safer power systems 
   * [See more](/products)
 ## Environmental and ecological monitoring
   * All kinds of mapping, geodesy, timelapse, photo & video (including 360°, thermal imaging)
-  * Sand dune migration
-  * Desert temperature
-  * Gulf air temperature
-  * Gulf wind map
+  * Monitoring & mapping:
+    * Sand dune migration
+    * Desert temperature
+    * Gulf air temperature
+    * Gulf wind map
   * Oil&gas industry ecological monitoring - complete lifecycle
   * Construction sites progress maps
   * [See more](/services)
