@@ -15,7 +15,8 @@ Our mission is to provide the following products and services:
   * High volume production
   * High production speed
   * Modular design with peripheral components highly available in UAE market
-  * Simple maintenance
+  * Scalable & upgradable design
+  * Simple maintenance & repairs
   * [See more](/products)
 ## Environmental and ecological monitoring
   * All kinds of mapping, geodesy, timelapse, photo & video (including 360°, thermal imaging)
