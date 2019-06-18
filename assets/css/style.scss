@@ -2,38 +2,24 @@
 ---
 
 @import 'jekyll-theme-cayman';
-
-
-header {
-    padding-top: 40px;
-    padding-bottom: 40px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-    background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-    border-bottom: solid 1px #275da1;
-}
+@import 'compass';
 
 .page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: rgb(183,222,237);
+  filter-gradient(#b7deed, #b7deed, vertical);
+  background-image(linear-gradient(top,  rgba(183,222,237,1) 0%,rgba(113,206,239,1) 50%,rgba(33,180,226,1) 51%,rgba(183,222,237,1) 100%));
 
-}
+  @include large {
+    padding: 5rem 6rem;
+  }
 
-/*
-#main-content h1 {
-    margin-top: 0;
-    margin-bottom: 0;
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-    font-size: 2.8em;
-    font-weight: normal;
-    color: #474747;
-    text-indent: 6px;
-    letter-spacing: -1px;
-}
+  @include medium {
+    padding: 3rem 4rem;
+  }
 
-#main-content h2 {
-    margin-bottom: 8px;
-    font-family: 'Helvetica Neue', Helvetica, Arial, serif;
-    font-size: 22px;
-    font-weight: bold;
-    color: #474747;
-    text-indent: 4px;
+  @include small {
+    padding: 2rem 1rem;
+  }
 }
-*/
