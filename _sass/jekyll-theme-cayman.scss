@@ -108,9 +108,8 @@ a {
 .page-header {
   color: $header-heading-color;
   text-align: center;
-background-color: rgb(109,179,242);
-@include filter-gradient(#6db3f2, #1e69de, vertical);
-@include background-image(linear-gradient(top,  rgba(109,179,242,1) 0%,rgba(84,163,238,1) 50%,rgba(54,144,240,1) 51%,rgba(30,105,222,1) 100%));
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 27%, rgba(0,212,255,1) 100%);
 
 
   @include large {
